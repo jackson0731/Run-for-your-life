@@ -6,15 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/MainMenu.unity
+    guid: 65229ee6a0ea82247a4dabbb9d11023e
   - enabled: 1
     path: Assets/Scenes/1.unity
-    guid: 2e36a367970403d44afd5363ddbf55a9
+    guid: 5da10d3c5bb7dc84ca8b8e9a62e759ea
   - enabled: 1
     path: Assets/Scenes/2.unity
-    guid: d0b3f9ffd98f7be4ca59b921250579ec
+    guid: ada0599486ba7cc48940a1f09f263b8e
   - enabled: 1
     path: Assets/Scenes/3.unity
-    guid: 7850adc32b1278a42a4d08f6020daaf3
+    guid: 037305f62fdb6b049b2410519d440779
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Dead.unity
+    guid: e5e6646bf89b4f74ea277eab99752a97
+  - enabled: 1
+    path: Assets/Scenes/END1.unity
+    guid: 9614a1f36b934204f921c1887b01b12a
+  - enabled: 1
+    path: Assets/Scenes/END2.unity
+    guid: df807e39b5de8c44d91e38cfe2e66658
+  - enabled: 1
+    path: Assets/Scenes/END3.unity
+    guid: 442425061822fad40b433455ddf74cb7
+  - enabled: 1
+    path: Assets/Scenes/Ava.unity
+    guid: 0e23861ea7fe5bb489bb91fd147b6ce5
   m_configObjects: {}

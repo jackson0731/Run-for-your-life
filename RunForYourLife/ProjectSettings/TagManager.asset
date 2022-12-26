@@ -3,20 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Item
+  - Enemy
+  - Delete
+  - GameSettingUI
+  - book
+  - air
+  - light
+  - Enemy2
+  - END
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - wall
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - player
+  - ground
+  - Item
+  - enemy
+  - Map
+  - icon
   - 
   - 
   - 
